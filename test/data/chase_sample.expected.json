@@ -1,0 +1,118 @@
+{
+  "id": "mock-id",
+  "bankName": "CHASE BANK",
+  "accountNumber": "****1234",
+  "statementPeriod": {
+    "start": "2024-01-01T05:00:00.000Z",
+    "end": "2024-01-31T05:00:00.000Z"
+  },
+  "openingBalance": 5000,
+  "closingBalance": 4850,
+  "transactions": [
+    {
+      "id": "mock-id",
+      "date": "2024-01-02T00:00:00.000Z",
+      "description": "GROCERY STORE PURCHASE",
+      "amount": 45.67,
+      "type": "debit",
+      "balance": 4954.33,
+      "reference": null
+    },
+    {
+      "id": "mock-id",
+      "date": "2024-01-05T00:00:00.000Z",
+      "description": "GAS STATION",
+      "amount": 35,
+      "type": "debit",
+      "balance": 4919.33,
+      "reference": null
+    },
+    {
+      "id": "mock-id",
+      "date": "2024-01-08T00:00:00.000Z",
+      "description": "SALARY DEPOSIT",
+      "amount": 2500,
+      "type": "credit",
+      "balance": 7419.33,
+      "reference": null
+    },
+    {
+      "id": "mock-id",
+      "date": "2024-01-12T00:00:00.000Z",
+      "description": "RESTAURANT DINNER",
+      "amount": 85.50,
+      "type": "debit",
+      "balance": 7333.83,
+      "reference": null
+    },
+    {
+      "id": "mock-id",
+      "date": "2024-01-15T00:00:00.000Z",
+      "description": "ONLINE SHOPPING",
+      "amount": 120,
+      "type": "debit",
+      "balance": 7213.83,
+      "reference": null
+    },
+    {
+      "id": "mock-id",
+      "date": "2024-01-18T00:00:00.000Z",
+      "description": "UTILITY BILL PAYMENT",
+      "amount": 150,
+      "type": "debit",
+      "balance": 7063.83,
+      "reference": null
+    },
+    {
+      "id": "mock-id",
+      "date": "2024-01-22T00:00:00.000Z",
+      "description": "ATM WITHDRAWAL",
+      "amount": 200,
+      "type": "debit",
+      "balance": 6863.83,
+      "reference": null
+    },
+    {
+      "id": "mock-id",
+      "date": "2024-01-25T00:00:00.000Z",
+      "description": "PHARMACY",
+      "amount": 25.30,
+      "type": "debit",
+      "balance": 6838.53,
+      "reference": null
+    },
+    {
+      "id": "mock-id",
+      "date": "2024-01-28T00:00:00.000Z",
+      "description": "MOVIE TICKETS",
+      "amount": 45,
+      "type": "debit",
+      "balance": 6793.53,
+      "reference": null
+    },
+    {
+      "id": "mock-id",
+      "date": "2024-01-30T00:00:00.000Z",
+      "description": "COFFEE SHOP",
+      "amount": 12.50,
+      "type": "debit",
+      "balance": 6781.03,
+      "reference": null
+    },
+    {
+      "id": "mock-id",
+      "date": "2024-01-31T05:00:00.000Z",
+      "description": "BANK FEE",
+      "amount": 15,
+      "type": "debit",
+      "balance": 6766.03,
+      "reference": null
+    }
+  ],
+  "metadata": {
+    "processingTime": 0,
+    "confidence": 0,
+    "sourceFormat": "pdf",
+    "totalTransactions": 11
+  }
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "date": "2016-04-01",
+    "description": "CASH APP*LECHE SI 4153753176 FL 561229501013855928936323-25.00",
+    "amount": 401,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-02",
+    "description": "Wawa 4329 TAMPA FL 5561436841014500087889161-28.69",
+    "amount": 401,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-03",
+    "description": "/03 IN BRANCH WITHDRWL TAMPA FL ",
+    "amount": 4,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-03",
+    "description": "CASH APP*LECHE SI 4153753176 FL 561829501014855458416596-25.49",
+    "amount": 402,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-04",
+    "description": "LYFT   *RIDE THU 8552800278 FL-8.99",
+    "amount": 403,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-05",
+    "description": "CASH APP*LECHE SI 4153753176 FL 5562229501014855458456345-7.35",
+    "amount": 404,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-07",
+    "description": "s63; Shawen Markal",
+    "amount": 7,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-09",
+    "description": "",
+    "amount": -3.53,
+    "type": "withdrawal"
+  },
+  {
+    "date": "2016-04-10",
+    "description": "/10 IN BRANCH WITHDRWL TAMPA FL ",
+    "amount": 4,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-13",
+    "description": "LYFT   *RIDE FRI 8552800278 FL-3.12",
+    "amount": 412,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-17",
+    "description": "The Home Depot 278 TAMPA FL 5548077102304676879885754",
+    "amount": 417,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-21",
+    "description": "FOR 04/21/IN",
+    "amount": 7629,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-24",
+    "description": "/24 IN BRANCH WITHDRWL TAMPA FL ",
+    "amount": 4,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-26",
+    "description": "FOR 04/26/IN",
+    "amount": 7629,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-26",
+    "description": "LYFT  *RIDE WED 8558659553 FL 56500361021400969877903-7.26",
+    "amount": 425,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-28",
+    "description": "LYFT  *RIDE WED 8558659553 FL 56550361022400971241915",
+    "amount": 427,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-28",
+    "description": "FOR 04/28/IN",
+    "amount": 7629,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-29",
+    "description": "sd; Arishi Pamils",
+    "amount": 8,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-30",
+    "description": "Walmart Neighborhood Market 1601 TAMPA FL 56581771023026482420525-20.52",
+    "amount": 429,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-17",
+    "description": "",
+    "amount": -28.82,
+    "type": "withdrawal"
+  },
+  {
+    "date": "2016-04-20",
+    "description": "CASH APP*HOUPETE 4153753176 FL 564229501016855389745612",
+    "amount": 419,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-20",
+    "description": "LYFT   *RIDE SAT 8552800278 TAMPA FL -5.34",
+    "amount": 419,
+    "type": "deposit"
+  },
+  {
+    "date": "2016-04-21",
+    "description": "El Rancho Grocery Store 2445 TAMPA FL 564329501016855389745612 -10.75",
+    "amount": 420,
+    "type": "deposit"
+  }
+]

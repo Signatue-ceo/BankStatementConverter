@@ -1,0 +1,20 @@
+BANK OF AMERICA
+Monthly Statement
+Account: ****5678
+Period: 02/01/2024 - 02/29/2024
+
+Beginning Balance: $3,250.00
+Ending Balance: $3,125.50
+
+02/01/2024  Beginning Balance              $3,250.00
+02/03/2024  CHECK DEPOSIT                 +$500.00   $3,750.00
+02/05/2024  WALMART PURCHASE              -$125.75   $3,624.25
+02/08/2024  DIRECT DEPOSIT                +$1,800.00 $5,424.25
+02/10/2024  RESTAURANT                    -$65.00    $5,359.25
+02/12/2024  GAS STATION                   -$40.00    $5,319.25
+02/15/2024  ONLINE SUBSCRIPTION           -$29.99    $5,289.26
+02/18/2024  GROCERY STORE                 -$85.50    $5,203.76
+02/20/2024  PHARMACY                      -$35.00    $5,168.76
+02/22/2024  MOVIE THEATER                 -$55.00    $5,113.76
+02/25/2024  COFFEE SHOP                   -$8.50     $5,105.26
+02/28/2024  BANK FEE                      -$12.00    $5,093.26
